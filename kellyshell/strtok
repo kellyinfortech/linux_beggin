@@ -1,0 +1,5 @@
+ prototype requires of us. char *strtok(char *str, const char *delim);
+
+str represents the string to be tokenize
+
+delim represents what can of characters we expect to be separating the string which should be used as a guide to break the string into smaller chunks.
